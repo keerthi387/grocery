@@ -1,0 +1,94 @@
+[
+        {
+            "slno":"01",
+            "name":"rice",
+            "qty":"10",
+            "unit":"kg",
+            "dept":"grocery",
+            "notes":"jaya"
+        },
+            
+    
+        {
+            "slno":"02",
+            "name":"cabbage",
+            "qty":"1",
+            "unit":"kg",
+            "dept":"vegetables",
+            "notes":"green"
+        },
+    
+        {
+            "slno":"03",
+            "name":"GARAMMASALA",
+            "qty":"1",
+            "unit":"P",
+            "dept":"MASALA",
+            "notes":"KITCHENTREASSURES"
+        },
+    
+        {
+        "slno":"04",
+        "name":"salt",
+        "qty":"1",
+        "unit":"p",
+        "dept":"saltt",
+        "notes":"yes"
+        },
+    
+        {
+            "slno":"05",
+            "name":"sugar",
+            "qty":"2",
+            "unit":"kg",
+            "dept":"grocery",
+            "notes":"more"
+        },
+   
+        {
+            "slno":"06",
+            "name":"laddu",
+            "qty":"1",
+            "unit":"kg",
+            "dept":"grocery",
+            "notes":"bakery"
+        },
+  
+        {
+            "slno":"07",
+            "name":"spinach",
+            "qty":"1",
+            "unit":"kg",
+            "dept":"grocery",
+            "notes":"shop"
+        },
+
+        {
+            "slno":"08",
+            "name":"dhaal",
+            "qty":"1",
+            "unit":"kg",
+            "dept":"grocery",
+            "notes":"zzz"
+        },
+    
+
+        {
+            "slno":"09",
+            "name":"chicken",
+            "qty":"1",
+            "unit":"kg",
+            "dept":"grocery",
+            "notes":"meatshop"
+    },
+  
+        {
+            "slno":"10",
+            "name":"eggs",
+            "qty":"10",
+            "unit":"numbers",
+            "dept":"grocery",
+            "notes":"xxx"
+        }
+    ]       
+    
